@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falgorithmace24%2Fgoatcounter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falgorithmace24%2Fgoatcounter?ref=badge_shield)
+
 GoatCounter is an open source web analytics platform available as a (free)
 hosted service or self-hosted app. It aims to offer easy to use and meaningful
 privacy-friendly web analytics as an alternative to Google Analytics or Matomo.
@@ -246,3 +248,7 @@ read directly from the filesystem, and a few other minor changes.
 
 See [.github/CONTRIBUTING.md](/.github/CONTRIBUTING.md) for more details on how
 to run a development server, write patches, etc.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falgorithmace24%2Fgoatcounter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falgorithmace24%2Fgoatcounter?ref=badge_large)
